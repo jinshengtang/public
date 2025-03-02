@@ -9,11 +9,12 @@ BLUR_THRESHOLD = 100  # Adjust as needed
 
 Duplicate photos and blurry photos detection are removed because:
 ## not so many photos are blur.
-## if a photo was put into 2 different folder, then the 2 copies will be in the same folder (name by the year). Since the 2 photos most likely use the same file name, there is no duplication any more.
+## no duplicate photos after organization.
+if a photo was put into 2 different folder, then the 2 copies will be in the same folder (name by the year). Since the 2 photos most likely use the same file name, there is no duplication any more.
 
 # TODOs:
-# Test iphone photos
-# include video files.
+# To test iphone photos
+# To include video files.
 
 
 
